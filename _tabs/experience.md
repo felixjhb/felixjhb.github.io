@@ -10,6 +10,7 @@ Work and Education
 
 Teaching
 : CS1822 Programming Laboratory (2022, 2023)
+: CS1860 Mathematical Structures (2023)
 : CS2800 Software Engineering (2022)
 : CS3450 Software Verification (2023)
 : CS3510 Functional Programming (2022, 2023)
