@@ -27,3 +27,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 #  gem "jekyll-sass-converter", "~> 2.0"
 #end
 #no longer necessary
+
+gem "webrick", "~> 1.8"
