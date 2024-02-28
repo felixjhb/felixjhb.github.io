@@ -6,7 +6,7 @@ order: 5
 Work and Education
 : Visiting Teaching Assistant @ Royal Holloway, University of London
 : PhD Computer Science (Ongoing) @ Royal Holloway, University of London
-: MMath Mathematics (1st) @ University of Southampton
+: MMath Mathematics (w/ first class hon.) @ University of Southampton
 
 Teaching
 : CS1822 Programming Laboratory (2022, 2023)
