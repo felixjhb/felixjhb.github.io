@@ -14,3 +14,6 @@ On the Metatheory of Subtype Universes
 An Introduction to Type Theory
 : Presented at Dept. of Mathematics Seminars at Royal Holloway, University of London (28 February 2024)
   [[slides](/assets/slides/slides_2024_rhul.pdf)]
+
+Representing Temporal Operators with Dependent Event Types
+: To be presented at TYPES2024 in Copenhagen, Denmark (10-14 June 2024)
