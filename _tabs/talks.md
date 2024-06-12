@@ -16,4 +16,5 @@ An Introduction to Type Theory
   [[slides](/assets/slides/slides_2024_rhul.pdf)]
 
 Representing Temporal Operators with Dependent Event Types
-: To be presented at TYPES2024 in Copenhagen, Denmark (10-14 June 2024)
+: Presented at TYPES2024 in Copenhagen, Denmark (10-14 June 2024)
+  [[ext. abstract](/assets/abstracts/abs_2024_types24.pdf)] [[slides](/assets/slides/slides_2024_types24.pdf)]
