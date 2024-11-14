@@ -9,9 +9,9 @@ Work and Education
 : MMath Mathematics (w/ first class hon.) @ University of Southampton
 
 Teaching
-: CS1822 Programming Laboratory (2022, 2023)
+: CS1822 Programming Laboratory (2022, 2023, 2024)
 : CS1860 Mathematical Structures (2023)
-: CS2800 Software Engineering (2022)
+: CS2800 Software Engineering (2022, 2024)
 : CS2910 Symbolic Artificial Intelligence (2024)
 : CS3450 Software Verification (2023, 2024)
 : CS3510 Functional Programming (2022, 2023, 2024)
