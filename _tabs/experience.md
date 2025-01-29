@@ -4,12 +4,18 @@ order: 5
 ---
 
 Work and Education
-: Visiting Teaching Assistant @ Royal Holloway, University of London
-: PhD Computer Science (Ongoing) @ Royal Holloway, University of London
-: MMath Mathematics (w/ first class hon.) @ University of Southampton
+: Teaching Fellow @ Royal Holloway, University of London 
+    (Feb 2025 -- Present) 
+: Teaching Assistant @ Royal Holloway, University of London 
+    (Jan 2022 -- Jan 2025) 
+: PhD Computer Science (Ongoing) @ Royal Holloway, University of London 
+    (Sept 2021 -- Present)
+: MMath Mathematics (w/ first class hon.) @ University of Southampton 
+    (Sept 2017 -- July 2021)
 
 Teaching
 : CS1822 Programming Laboratory (2022, 2023, 2024)
+: CS1840 Internet Services (2025)
 : CS1860 Mathematical Structures (2023)
 : CS2800 Software Engineering (2022, 2024)
 : CS2910 Symbolic Artificial Intelligence (2024)
