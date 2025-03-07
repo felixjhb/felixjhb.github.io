@@ -12,7 +12,7 @@
   url:  'https://www.linkedin.com/in/felixjhb/'                  # Fill with your Linkedin homepage
 
 - type: twitter
-  icon: 'fab fa-twitter'
+  icon: 'fab fa-x-twitter'
 
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
