@@ -1,8 +1,8 @@
 #  The contact options.
 
 - type: bluesky
-  icon: 'fab fa-bluesky'   # icons powered by <https://fontawesome.com/>
-  url:  'https://bsky.felixjhb.com'                  # Fill with your Linkedin homepage
+  icon: 'fa-brands fa-bluesky'   # icons powered by <https://fontawesome.com/>
+  url:  'https://bsky.app/profile/felixjhb.com'                  # Fill with your Linkedin homepage
 
 - type: github
   icon: "fab fa-github"

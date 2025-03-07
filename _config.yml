@@ -29,6 +29,9 @@ description: >- # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://felixjhb.com"
 
+bluesky:
+  username: felixjhb.com
+
 github:
   username: felixjhb # change to your github username
 
@@ -42,9 +45,10 @@ social:
   email: felix (dot) bradley (at) rhul (dot) ac (dot) uk # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/fjhbradley # change to your twitter homepage
+    - https://bsky.app/profile/felixjhb.com
     - https://github.com/felixjhb # change to your github homepage
     - https://www.linkedin.com/in/felixjhb # change to your linkedin homepage
+    - https://twitter.com/fjhbradley # change to your twitter homepage
 
 google_site_verification: # fill in to your verification string
 
