@@ -1,7 +1,7 @@
 #  The contact options.
 
 - type: bluesky
-  icon: 'fas fa-mosquito'
+  icon: 'fab fa-bluesky'
   url:  'https://bsky.app/profile/felixjhb.com'                  # Fill with your Linkedin homepage
 
 - type: github
