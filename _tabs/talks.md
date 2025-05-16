@@ -2,6 +2,10 @@
 icon: fas fa-comments
 order: 4
 ---
+Weak Equality Reflection in MLTT with Propositional Truncation
+: Presenting at TYPES2025 in Glasgow, Scotland (9-13 June 2025)
+  [[ext. abstract](/assets/abstracts/abs_2025_types25.pdf)]
+
 Representing Temporal Operators with Dependent Event Types
 : Presented at TYPES2024 in Copenhagen, Denmark (10-14 June 2024)
   [[ext. abstract](/assets/abstracts/abs_2024_types24.pdf)] [[slides](/assets/slides/slides_2024_types24.pdf)]
