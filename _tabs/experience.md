@@ -14,14 +14,15 @@ Work and Education
     (Sept 2017 -- July 2021)
 
 Teaching
-: CS1822 Programming Laboratory (2022, 2023, 2024)
+: CS1822 Programming Laboratory (2022-2024)
 : CS1840 Internet Services (2025)
 : CS1860 Mathematical Structures (2023)
 : CS1999 Foundation Individual Scientific Project (2025)
 : CS2800 Software Engineering (2022, 2024)
-: CS2910 Symbolic Artificial Intelligence (2023, 2024)
-: CS3450 Software Verification (2023, 2024, 2025)
-: CS3510 Functional Programming (2022, 2023, 2024, 2025)
+: CS2910 Symbolic Artificial Intelligence (2023-2024)
+: CS3450 Software Verification (2023-2025)
+: CS3510 Functional Programming (2022-2025)
+: CS3821 Final Year Project (2025)
 
 Miscellaneous
 : Co-organiser of the [Proofs and Programs Club @ RHUL](https://papc-rhul.github.io/)
